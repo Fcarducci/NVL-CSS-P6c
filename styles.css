@@ -1,0 +1,30 @@
+.recetacontenedor{
+display: flex;
+align-items: center;
+}
+
+.preparacion{
+    width: 30%;
+    margin-left: 5%;
+}
+.ingredientes{
+    width: 15%;
+
+}
+
+*{
+    background-color: lightgray;
+    font-family: 'Stylish', sans-serif;
+}
+
+img{
+    width: 30%;
+    height: 30%;
+    margin-left: 5%;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+}
